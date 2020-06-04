@@ -18,7 +18,8 @@
 16.	AWS 	
 17.	GPU 	
 18.	POST	
-19.	CMS	
+19. CMS Content Management System
+   A software application that can be used to manage the creation and modification of digital content
 20.	DVD 	
 21.	FAT 	
 22.	HTML 	
@@ -42,7 +43,8 @@
 40.	SCSI 	
 41.	P2P 	
 42.	UPS 	
-43.	BPS	
+43. BPS Bits Per Second
+   The average number of bits per unit time passing through a communication link in a data-transmission system
 44.	USB 	
 45.	DPI 	
 46.	CSS 	
@@ -66,7 +68,8 @@
 64.	RTF
 65.	IDE
 66.	SATA
-67.	GUID
+67. GUID Globally Unique Identifier
+   A 128-bit number used to identify information in computer systems
 68.	HDMI
 69.	IoT
 70.	IaaS
